@@ -6,6 +6,10 @@
     text-align: center;
     margin: 40px;
 }
+.noticias p{
+    text-align: center;
+    margin-top: 50px;
+}
 .card{
     width: 250px;
     height: 400px;
