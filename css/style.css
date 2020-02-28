@@ -17,6 +17,10 @@
     width: 100%;
     height: 100%;
 }
+.container img{
+    height: 45px;
+    align-self: center;
+}
 .menu_topo ul{
     display: flex;
     list-style-type: none;
